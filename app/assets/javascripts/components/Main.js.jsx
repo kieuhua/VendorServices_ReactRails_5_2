@@ -4,9 +4,8 @@ class Main extends React.Component {
 	render() {
 		return (
 			<div>
-			<p> hi kieu </p>
-				<Header />
-				<Body />
+			<Header />			
+			<Body />
 			</div>
 		);
 	}
